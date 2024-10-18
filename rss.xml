@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>バウムクーヘン〜音楽家達のティータイム</title>
+    <itunes:image>https://ibb.co/9wcnPvQ</itunes:image>
+    <itunes:author>Yukari Mukae,Hayoung Lee,Julian Seiler</itunes:author>
+    <description>はじめまして！
+私たちは、日本人のゆかりと、韓国人のハヨンと、ドイツ人のユリアンの3人で「バウムクーヘン」というアカウント名で活動をしています。育った国がバラバラの3人の共通点は、音楽が好きと言うこと！将来音楽を仕事にしたい人や、日本、韓国、ドイツの文化に興味がある人は是非フォローしていただけると嬉しいです！</description>
+    <language>ja-jp</language>
+    <itunes:category>text="Music Interviews" />
+    <copyright>Copyright 2024 Yukari Mukae,Hayoung Lee,Julian Seiler</copyright>
+
+    <item>
+      <title>１.こんにちは、안녕하세요,Hallo!</title>
+      <link></link>
+      <description></description>
+      <enclosure url="https://example.com/audio/episode1.mp3" length="12345678" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Oct 2024 10:00:00 GMT</pubDate>
+      <guid>https://example.com/episode1</guid>
+    </item>
+  </channel>
+</rss>
